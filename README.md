@@ -1,6 +1,6 @@
-# Solutions de l'évaluation notée 2 du groupe [nom-groupe]
+# Solutions de l'évaluation notée 2 du groupe Aness/Paulo/Achille/Mohamed
 
-Solutions de l'évaluation notée 2 du groupe [nom-groupe] à l'aide de MkDocs.
+Solutions de l'évaluation notée 2 du groupe Aness/Paulo/Achille/Mohamed à l'aide de MkDocs.
 
 ## Membres du groupe
 
@@ -11,7 +11,7 @@ Solutions de l'évaluation notée 2 du groupe [nom-groupe] à l'aide de MkDocs.
 
 ## URLs des dépôts
 
-- `initiateur` : [URL du dépôt GitHub de l'initiateur]
+- `initiateur` : https://github.com/efrei-git/quotes-docs-aness-mohammed-paulo-achille.git
 - `Contributeur 1`: https://github.com/Paulo-vt/quotes-docs-aness-mohammed-paulo-achille.git
 - `Contributeur 2`: https://github.com/Axille/forkcontributeur2.git
 - `Contributeur 3`: https://github.com/ivan-maker-beep/forkcontributeur3.git
