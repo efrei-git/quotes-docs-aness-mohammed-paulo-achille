@@ -7,7 +7,7 @@ Solutions de l'évaluation notée 2 du groupe Aness/Paulo/Achille/Mohamed à l'a
 - `initiateur` : FOUKA Aness
 - `Contributeur 1` : Paulo TEIXEIRA
 - `Contributeur 2` : Achille LICHNEROVICZ
-- `Contributeur 3` : Mohamed AÏFA
+- `Contributeur 3` : Mohamed aifa
 
 ## URLs des dépôts
 
