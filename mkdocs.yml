@@ -1,1 +1,7 @@
 site_name: Documentation Programming Quotes Aness/Paulo/Mohammed/Achille
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Core Functions: functions.md
+  - User Interface: user-interface.md
+
