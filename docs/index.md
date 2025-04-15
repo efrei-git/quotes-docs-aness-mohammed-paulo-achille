@@ -5,4 +5,5 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 ## Membres du groupe
 
 - `initiateur` : Aness FOUKA
-- `contributeur 1` : Paulo TEIXEIRA
+- `Contributeur 1` : Paulo TEIXEIRA
+- `Contributeur 2` : Achille LICHNEROVICZ https://github.com/achille-dev/programming-quotes
