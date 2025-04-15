@@ -1,4 +1,4 @@
-# Documentation Programming Quotes [nom-groupe]
+# Documentation Programming Quotes Aness/Paulo/Achille/Mohamed
 
 Programming Quotes est petite application qui permet d'afficher des citations humouristique de programmeurs. 
 
